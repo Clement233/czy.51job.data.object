@@ -1,0 +1,56 @@
+2022-10-18 23:33:04,568 launcher.py[line:45] INFO ProxyPool Version: 2.4.0
+2022-10-18 23:33:04,568 launcher.py[line:50] INFO ProxyPool configure HOST: 127.0.0.1
+2022-10-18 23:33:04,568 launcher.py[line:51] INFO ProxyPool configure PORT: 5010
+2022-10-18 23:33:04,569 launcher.py[line:52] INFO ProxyPool configure PROXY_FETCHER: ['freeProxy01', 'freeProxy02', 'freeProxy03', 'freeProxy04', 'freeProxy05', 'freeProxy06', 'freeProxy07', 'freeProxy08', 'freeProxy09', 'freeProxy10']
+2022-10-18 23:33:04,964 launcher.py[line:58] INFO ============ DATABASE CONFIGURE ================
+2022-10-18 23:33:04,965 launcher.py[line:59] INFO DB_TYPE: REDIS
+2022-10-18 23:33:04,965 launcher.py[line:60] INFO DB_HOST: 127.0.0.1
+2022-10-18 23:33:04,965 launcher.py[line:61] INFO DB_PORT: 6379
+2022-10-18 23:33:04,965 launcher.py[line:62] INFO DB_NAME: 0
+2022-10-18 23:33:04,965 launcher.py[line:63] INFO DB_USER: 
+2022-10-18 23:33:04,965 launcher.py[line:64] INFO =================================================
+2022-10-18 23:33:04,987 launcher.py[line:39] INFO exit!
+2022-10-18 23:34:47,664 launcher.py[line:45] INFO ProxyPool Version: 2.4.0
+2022-10-18 23:34:47,665 launcher.py[line:50] INFO ProxyPool configure HOST: 127.0.0.1
+2022-10-18 23:34:47,665 launcher.py[line:51] INFO ProxyPool configure PORT: 5010
+2022-10-18 23:34:47,665 launcher.py[line:52] INFO ProxyPool configure PROXY_FETCHER: ['freeProxy01', 'freeProxy02', 'freeProxy03', 'freeProxy04', 'freeProxy05', 'freeProxy06', 'freeProxy07', 'freeProxy08', 'freeProxy09', 'freeProxy10']
+2022-10-18 23:34:47,835 launcher.py[line:58] INFO ============ DATABASE CONFIGURE ================
+2022-10-18 23:34:47,835 launcher.py[line:59] INFO DB_TYPE: REDIS
+2022-10-18 23:34:47,835 launcher.py[line:60] INFO DB_HOST: 127.0.0.1
+2022-10-18 23:34:47,835 launcher.py[line:61] INFO DB_PORT: 6379
+2022-10-18 23:34:47,835 launcher.py[line:62] INFO DB_NAME: 0
+2022-10-18 23:34:47,835 launcher.py[line:63] INFO DB_USER: 
+2022-10-18 23:34:47,836 launcher.py[line:64] INFO =================================================
+2022-10-18 23:40:54,512 launcher.py[line:45] INFO ProxyPool Version: 2.4.0
+2022-10-18 23:40:54,513 launcher.py[line:50] INFO ProxyPool configure HOST: 127.0.0.1
+2022-10-18 23:40:54,513 launcher.py[line:51] INFO ProxyPool configure PORT: 5010
+2022-10-18 23:40:54,513 launcher.py[line:52] INFO ProxyPool configure PROXY_FETCHER: ['freeProxy01', 'freeProxy02', 'freeProxy03', 'freeProxy04', 'freeProxy05', 'freeProxy06', 'freeProxy07', 'freeProxy08', 'freeProxy09', 'freeProxy10']
+2022-10-18 23:40:54,659 launcher.py[line:58] INFO ============ DATABASE CONFIGURE ================
+2022-10-18 23:40:54,659 launcher.py[line:59] INFO DB_TYPE: REDIS
+2022-10-18 23:40:54,659 launcher.py[line:60] INFO DB_HOST: 127.0.0.1
+2022-10-18 23:40:54,660 launcher.py[line:61] INFO DB_PORT: 6379
+2022-10-18 23:40:54,660 launcher.py[line:62] INFO DB_NAME: 0
+2022-10-18 23:40:54,660 launcher.py[line:63] INFO DB_USER: 
+2022-10-18 23:40:54,660 launcher.py[line:64] INFO =================================================
+2022-10-19 12:15:54,306 launcher.py[line:45] INFO ProxyPool Version: 2.4.0
+2022-10-19 12:15:54,307 launcher.py[line:50] INFO ProxyPool configure HOST: 127.0.0.1
+2022-10-19 12:15:54,307 launcher.py[line:51] INFO ProxyPool configure PORT: 5010
+2022-10-19 12:15:54,307 launcher.py[line:52] INFO ProxyPool configure PROXY_FETCHER: ['freeProxy01', 'freeProxy02', 'freeProxy03', 'freeProxy04', 'freeProxy05', 'freeProxy06', 'freeProxy07', 'freeProxy08', 'freeProxy09', 'freeProxy10']
+2022-10-19 12:15:54,422 launcher.py[line:58] INFO ============ DATABASE CONFIGURE ================
+2022-10-19 12:15:54,422 launcher.py[line:59] INFO DB_TYPE: REDIS
+2022-10-19 12:15:54,422 launcher.py[line:60] INFO DB_HOST: 127.0.0.1
+2022-10-19 12:15:54,422 launcher.py[line:61] INFO DB_PORT: 6379
+2022-10-19 12:15:54,422 launcher.py[line:62] INFO DB_NAME: 0
+2022-10-19 12:15:54,422 launcher.py[line:63] INFO DB_USER: 
+2022-10-19 12:15:54,422 launcher.py[line:64] INFO =================================================
+2022-10-19 12:16:26,556 launcher.py[line:45] INFO ProxyPool Version: 2.4.0
+2022-10-19 12:16:26,556 launcher.py[line:50] INFO ProxyPool configure HOST: 127.0.0.1
+2022-10-19 12:16:26,556 launcher.py[line:51] INFO ProxyPool configure PORT: 5010
+2022-10-19 12:16:26,557 launcher.py[line:52] INFO ProxyPool configure PROXY_FETCHER: ['freeProxy01', 'freeProxy02', 'freeProxy03', 'freeProxy04', 'freeProxy05', 'freeProxy06', 'freeProxy07', 'freeProxy08', 'freeProxy09', 'freeProxy10']
+2022-10-19 12:16:26,624 launcher.py[line:58] INFO ============ DATABASE CONFIGURE ================
+2022-10-19 12:16:26,624 launcher.py[line:59] INFO DB_TYPE: REDIS
+2022-10-19 12:16:26,624 launcher.py[line:60] INFO DB_HOST: 127.0.0.1
+2022-10-19 12:16:26,624 launcher.py[line:61] INFO DB_PORT: 6379
+2022-10-19 12:16:26,624 launcher.py[line:62] INFO DB_NAME: 0
+2022-10-19 12:16:26,624 launcher.py[line:63] INFO DB_USER: 
+2022-10-19 12:16:26,624 launcher.py[line:64] INFO =================================================
