@@ -25,7 +25,7 @@
 
 #### 三、数据分析，软件包DataAnalysis
 
-1、暂无
+1、运行 GBDT.py使用回归模型进行工资预测与模型评估
 
 #### 四、可视化数据处理，软件包DataVisualization
 
